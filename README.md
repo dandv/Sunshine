@@ -1,6 +1,4 @@
-Sunshine
-========
+Sunshine v1 (DEPRECATED)
+========================
 
-Sunshine is the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
-
-Take the course to find out how to build this app a step at a time, and eventually create your own Android App!
+Sunshine was the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853). It has been obsoleted by [Sunshine Version 2](https://github.com/udacity/Sunshine-Version-2).
